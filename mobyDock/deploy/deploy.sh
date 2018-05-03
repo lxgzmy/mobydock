@@ -1,5 +1,5 @@
 #!/bin/bash
-
+  
 
 SERVER_IP="${SERVER_IP:-192.168.31.128}"
 SSH_USER="${SSH_USER:-$(whoami)}"
